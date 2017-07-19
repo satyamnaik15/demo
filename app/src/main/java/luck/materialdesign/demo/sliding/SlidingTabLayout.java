@@ -16,7 +16,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import demo.test.spoot.R;
-import luck.materialdesign.demo.MainActivity;
+import luck.materialdesign.demo.activity.MainActivity;
 
 
 /**

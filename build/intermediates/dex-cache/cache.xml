@@ -2,22 +2,121 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="D:\Satyam\demo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\Ifly\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="f92978bd806d242d24c473890198628d6af98eaf">
-        <dex dex="D:\Satyam\demo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1147c6bd0342b02b48810dde6384cb87564009f7\classes.dex" />
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Satyam\demo\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_a51fc410a4a383064af0b4dc9fcc58de580c7eaa.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="D:\Satyam\demo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\Ifly\.android\build-cache\486538af7030cb2c6479025a6b267f076ba82c67\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="D:\Satyam\demo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_54b56aca020dc07e741f67e26d4d8e39cb095570\classes.dex" />
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Satyam\demo\app\build\intermediates\pre-dexed\debug\classes_a2313ddeb3f2ef10d005073ac0d586922755d203.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ifly\.android\build-cache\f60044005f51467f3e24df05e0223134e320d5b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Satyam\demo\app\build\intermediates\pre-dexed\debug\classes_6290432d5df8afd262f6e90425236d57d1eb1354.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ifly\.android\build-cache\970804d3cfc71a362abcdb2b700d29cfa0eb4f0a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Satyam\demo\app\build\intermediates\pre-dexed\debug\classes_f90cfb17e25cfc765e6405fd7789867bcf373e00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ifly\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.15\9093a362d18c5f81f58e49d86dece57d9b6e1cb7\library-1.0.15.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9093a362d18c5f81f58e49d86dece57d9b6e1cb7">
+        <dex dex="D:\Satyam\demo\app\build\intermediates\pre-dexed\debug\library-1.0.15_ea34cc6c50a951511347f1ad7edd8c92b9710bcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ifly\.android\build-cache\fc8bc08bb78e1e6e86aea0c39780d021fc72f5ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\Satyam\demo\app\build\intermediates\pre-dexed\debug\classes_07fca029602a0767c88ea9e52184a69ab3f591a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ifly\.android\build-cache\a0a9e08053ccfe9db9be8d0f163d320ba0fda21e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\Satyam\demo\app\build\intermediates\pre-dexed\debug\classes_0ee6c98cd421c2af6652fdf57c9baea829d1f45b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ifly\.android\build-cache\83452e0875bd676c977348b01edf490aab6bb479\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\Satyam\demo\app\build\intermediates\pre-dexed\debug\classes_a913845415c331d36989f2f5ab891d155e948320.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ifly\.android\build-cache\e8864ccaccc89845f9377db72c5c885206676bc2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\Satyam\demo\app\build\intermediates\pre-dexed\debug\classes_bcd144e59b98289f91c4af0ef045f46473bbcf84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ifly\.android\build-cache\5b8827534c5ffad8714f4cda4a123b4b4e4e8b8a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Satyam\demo\app\build\intermediates\pre-dexed\debug\classes_c8be751e9c501dc0467ae7003f1edb72a04ba334.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ifly\.android\build-cache\59c212238357f313a4a618c1715685a159d3ebf9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Satyam\demo\app\build\intermediates\pre-dexed\debug\classes_4c29895518a85846c7a9ee9d887845e3290efdb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ifly\.android\build-cache\ef5a8a1e1eb124b84be0488f11debe0c74c534db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Satyam\demo\app\build\intermediates\pre-dexed\debug\classes_b76b1d061bc45a1195f046bdcea07b90e4ba4145.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ifly\.android\build-cache\061c3c7200525b632a52e105b99ba608af114427\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="D:\Satyam\demo\app\build\intermediates\pre-dexed\debug\classes_06fb3cbcae57158595b5c91912593dd959930304.jar" />
     </item>
 
 </items>

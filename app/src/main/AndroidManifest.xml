@@ -3,14 +3,14 @@
     package="demo.test.spoot" >
 
     <application
-        android:name="luck.materialdesign.demo.App"
+        android:name="luck.materialdesign.demo.utils.App"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:largeHeap="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="luck.materialdesign.demo.MainActivity"
+            android:name="luck.materialdesign.demo.activity.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

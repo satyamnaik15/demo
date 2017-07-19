@@ -14,7 +14,7 @@ import android.view.ViewGroup;
 import java.util.ArrayList;
 
 import demo.test.spoot.R;
-import luck.materialdesign.demo.MainActivity;
+import luck.materialdesign.demo.activity.MainActivity;
 import luck.materialdesign.demo.adapter.listAdapter;
 import luck.materialdesign.demo.model.EachItem_Model;
 
