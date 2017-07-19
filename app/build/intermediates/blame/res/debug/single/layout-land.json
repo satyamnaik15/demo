@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Satyam\\demo\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\tab_2.xml",
+        "source": "D:\\Satyam\\demo\\app\\src\\main\\res\\layout-land\\tab_2.xml"
+    },
+    {
+        "merged": "D:\\Satyam\\demo\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\tool_bar.xml",
+        "source": "D:\\Satyam\\demo\\app\\src\\main\\res\\layout-land\\tool_bar.xml"
+    },
+    {
+        "merged": "D:\\Satyam\\demo\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\point_right_text.xml",
+        "source": "D:\\Satyam\\demo\\app\\src\\main\\res\\layout-land\\point_right_text.xml"
+    },
+    {
+        "merged": "D:\\Satyam\\demo\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\tab_3.xml",
+        "source": "D:\\Satyam\\demo\\app\\src\\main\\res\\layout-land\\tab_3.xml"
+    },
+    {
+        "merged": "D:\\Satyam\\demo\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\eachtab.xml",
+        "source": "D:\\Satyam\\demo\\app\\src\\main\\res\\layout-land\\eachtab.xml"
+    },
+    {
+        "merged": "D:\\Satyam\\demo\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\point_center_text.xml",
+        "source": "D:\\Satyam\\demo\\app\\src\\main\\res\\layout-land\\point_center_text.xml"
+    },
+    {
+        "merged": "D:\\Satyam\\demo\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\tab_1.xml",
+        "source": "D:\\Satyam\\demo\\app\\src\\main\\res\\layout-land\\tab_1.xml"
+    },
+    {
+        "merged": "D:\\Satyam\\demo\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_main.xml",
+        "source": "D:\\Satyam\\demo\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Satyam\\demo\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\imageview.xml",
+        "source": "D:\\Satyam\\demo\\app\\src\\main\\res\\layout-land\\imageview.xml"
+    },
+    {
+        "merged": "D:\\Satyam\\demo\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\eachrow.xml",
+        "source": "D:\\Satyam\\demo\\app\\src\\main\\res\\layout-land\\eachrow.xml"
+    }
+]
